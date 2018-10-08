@@ -1,0 +1,12 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/44832A4B-649E-41F9-A70A-7813969650A6/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51039:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/44832A4B-649E-41F9-A70A-7813969650A6/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Sahany/IdeaProjects/Random Program/out/production/Random Program" Main
+STR:17
+Agility:15
+INT:16
+Magic Missile Value:80
+The final damage will be954.4590903562106
+The intelligence is 14
+First scenario's damage is700.0
+ The base number of the magic missile damage is22
+The base magic missile damage is 220
+Second Scenario's damage is 1100.0
+Process finished with exit code 0
